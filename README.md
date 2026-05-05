@@ -29,13 +29,17 @@ A deep learning-based ethnicity classification system using:
 ## Screenshots
 
 ### Example 1
-![Example1](screenshots/example1.png)
+<img width="668" height="790" alt="image" src="https://github.com/user-attachments/assets/d8aaaabf-4648-4589-81d6-5a67929e7b29" />
+
+
 
 ### Example 2
-![Example2](screenshots/example2.png)
+<img width="848" height="846" alt="image" src="https://github.com/user-attachments/assets/d91a314e-544f-49a1-b061-68a0cf2833da" />
 
 ### Example 3
-![Example3](screenshots/example3.png)
+
+<img width="1097" height="874" alt="image" src="https://github.com/user-attachments/assets/052e2a7c-ed48-498e-83b1-989e4639c866" />
+
 
 ## Research Basis
 
